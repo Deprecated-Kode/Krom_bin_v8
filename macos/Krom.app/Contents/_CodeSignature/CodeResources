@@ -8,6 +8,82 @@
 		<data>
 		Da7yIekBDKQLWdk+TznlNIQGVg8=
 		</data>
+		<key>Resources/macos/Krom.app/Contents/Info.plist</key>
+		<data>
+		ldZYSOFMIesk2/nQFICVdGY4p08=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/MacOS/Krom</key>
+		<data>
+		qDRnHG1v4YRDMYrEmxmy43MWl/E=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/AppIcon.icns</key>
+		<data>
+		Da7yIekBDKQLWdk+TznlNIQGVg8=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libicui18n.dylib</key>
+		<data>
+		3KOVJYiXM5CB6ah4wbNvqVzhCzw=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libicuuc.dylib</key>
+		<data>
+		B35fYPQ9OLPt7WyH+Ns0cDSl2z4=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libv8.dylib</key>
+		<data>
+		f4Cbwenaqxi9QlhFqyp4CuhnZRU=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libv8_libbase.dylib</key>
+		<data>
+		E4/+iFix7wzfrbsAW69rqcLB+y0=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/natives_blob.bin</key>
+		<data>
+		qHkUpBZKWBo3oBLbypW5xX9+2AM=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-colored.frag</key>
+		<data>
+		StFpL5cPjDy7d2ByPPeHk1gCFJA=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-colored.vert</key>
+		<data>
+		d/aA2YqYaf3a4l5K28FmlPFwJfg=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-image.frag</key>
+		<data>
+		/F/gYMg6lKMUxhI8J6kdJSjdJO8=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-image.vert</key>
+		<data>
+		cJrLR+2aDs56U9ir32umyneAs3E=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-text.frag</key>
+		<data>
+		r8ULWfYcYGApTI1Kqulfsfj+SKQ=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-text.vert</key>
+		<data>
+		bqaDfKQ8odHkrh8Bw5nMrPF83c8=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-video.frag</key>
+		<data>
+		/F/gYMg6lKMUxhI8J6kdJSjdJO8=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-video.vert</key>
+		<data>
+		cJrLR+2aDs56U9ir32umyneAs3E=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/snapshot_blob.bin</key>
+		<data>
+		/Uz5a2DS4QRamIIE3CcOXEQiw2M=
+		</data>
+		<key>Resources/macos/Krom.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		i2r7CbsXwM3VcZ8X5TR2vjK+yXA=
+		</data>
 		<key>Resources/macos/libicui18n.dylib</key>
 		<data>
 		3KOVJYiXM5CB6ah4wbNvqVzhCzw=
@@ -18,15 +94,19 @@
 		</data>
 		<key>Resources/macos/libv8.dylib</key>
 		<data>
-		f4Cbwenaqxi9QlhFqyp4CuhnZRU=
+		+8XpBmxcEE/y1xUGn3YO/DtYUuY=
 		</data>
 		<key>Resources/macos/libv8_libbase.dylib</key>
 		<data>
-		E4/+iFix7wzfrbsAW69rqcLB+y0=
+		Lwk8KkqhV/dCLRP4HxGx2YDWu/8=
+		</data>
+		<key>Resources/macos/libv8_libplatform.dylib</key>
+		<data>
+		+RXEZg7JykA6Mz3Ol70wMBo0RVM=
 		</data>
 		<key>Resources/macos/natives_blob.bin</key>
 		<data>
-		qHkUpBZKWBo3oBLbypW5xX9+2AM=
+		anS3wxniEUrmeAmixMarLXyyv6E=
 		</data>
 		<key>Resources/macos/painter-colored.frag</key>
 		<data>
@@ -62,7 +142,7 @@
 		</data>
 		<key>Resources/macos/snapshot_blob.bin</key>
 		<data>
-		/Uz5a2DS4QRamIIE3CcOXEQiw2M=
+		vanBCjBk5Nkb62REIOVpr+aEy8U=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -76,6 +156,215 @@
 			<key>hash2</key>
 			<data>
 			n5McN4YUrXD2JN5Q6KseCNSJzzjYEYYmhilYY4/0N20=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ldZYSOFMIesk2/nQFICVdGY4p08=
+			</data>
+			<key>hash2</key>
+			<data>
+			cueWKBxVM2jpZVDf7siSyNcIayTJkLcwtRIjCSsJ810=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/MacOS/Krom</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qDRnHG1v4YRDMYrEmxmy43MWl/E=
+			</data>
+			<key>hash2</key>
+			<data>
+			vN8VJjEEQe9JPOKfCeNgeQ/d53rXCi3R6HZhpDjgSsw=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Da7yIekBDKQLWdk+TznlNIQGVg8=
+			</data>
+			<key>hash2</key>
+			<data>
+			n5McN4YUrXD2JN5Q6KseCNSJzzjYEYYmhilYY4/0N20=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libicui18n.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3KOVJYiXM5CB6ah4wbNvqVzhCzw=
+			</data>
+			<key>hash2</key>
+			<data>
+			AiZw1LJpF1T7vdGvTTupZ6LKAiVWgk9MDnpAlasz6cM=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libicuuc.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B35fYPQ9OLPt7WyH+Ns0cDSl2z4=
+			</data>
+			<key>hash2</key>
+			<data>
+			IOOa5merjtD9VMNR4QEx6gL33piz/yjz3lErscajQh8=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libv8.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f4Cbwenaqxi9QlhFqyp4CuhnZRU=
+			</data>
+			<key>hash2</key>
+			<data>
+			t8rI9zozjaJLIRC6EGEG0G2ChMGkhi95KNZgfFFVZV4=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/libv8_libbase.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E4/+iFix7wzfrbsAW69rqcLB+y0=
+			</data>
+			<key>hash2</key>
+			<data>
+			uKgm2rKC0SSjb2hRUxvBjLTLw5Xnokaandsnhrlp+c8=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/natives_blob.bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qHkUpBZKWBo3oBLbypW5xX9+2AM=
+			</data>
+			<key>hash2</key>
+			<data>
+			IDYZHCzx8JzksCU9vgp1AXWgDYKl0374BmuTDpEdQUI=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-colored.frag</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			StFpL5cPjDy7d2ByPPeHk1gCFJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			VeBISQSroqV/byWtNvRMyxsU9PDjrkme4uGVVBpbhZI=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-colored.vert</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			d/aA2YqYaf3a4l5K28FmlPFwJfg=
+			</data>
+			<key>hash2</key>
+			<data>
+			9LEMq/w+cIdQlK/3LLCdGLi2gLstLAZW2FsfQHG7dlA=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-image.frag</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/F/gYMg6lKMUxhI8J6kdJSjdJO8=
+			</data>
+			<key>hash2</key>
+			<data>
+			8UHUGzR1DiDrMura13NDZJinBRB5trz74ZshNPalh58=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-image.vert</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cJrLR+2aDs56U9ir32umyneAs3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			R1k+L1Jymc5yL3yVuP+09jTFQlV2V1l4pzxdtTe1s2A=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-text.frag</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r8ULWfYcYGApTI1Kqulfsfj+SKQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			jgWgJvtfh+mxwn8lqMtuGpTNrVbDMfxOROPjecKjuvs=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-text.vert</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bqaDfKQ8odHkrh8Bw5nMrPF83c8=
+			</data>
+			<key>hash2</key>
+			<data>
+			W+xHWzwImTDaXvdcvqsq1OpNcsQ998WLpKhWTAeT21w=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-video.frag</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/F/gYMg6lKMUxhI8J6kdJSjdJO8=
+			</data>
+			<key>hash2</key>
+			<data>
+			8UHUGzR1DiDrMura13NDZJinBRB5trz74ZshNPalh58=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/painter-video.vert</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cJrLR+2aDs56U9ir32umyneAs3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			R1k+L1Jymc5yL3yVuP+09jTFQlV2V1l4pzxdtTe1s2A=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/Resources/macos/snapshot_blob.bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Uz5a2DS4QRamIIE3CcOXEQiw2M=
+			</data>
+			<key>hash2</key>
+			<data>
+			w2993mfcI7rOSFyIFr5kk6l6iK1lK8dUQrDOOLLlyN0=
+			</data>
+		</dict>
+		<key>Resources/macos/Krom.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i2r7CbsXwM3VcZ8X5TR2vjK+yXA=
+			</data>
+			<key>hash2</key>
+			<data>
+			z6zA+lL65f1+b8phw2NYqQD8mwfL7+e4/RkhXgD8zvM=
 			</data>
 		</dict>
 		<key>Resources/macos/libicui18n.dylib</key>
@@ -104,33 +393,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f4Cbwenaqxi9QlhFqyp4CuhnZRU=
+			+8XpBmxcEE/y1xUGn3YO/DtYUuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			t8rI9zozjaJLIRC6EGEG0G2ChMGkhi95KNZgfFFVZV4=
+			rpJiw2IWNj6kyW8XG3+mIKDmS8WcOfZCWHePe44k7dY=
 			</data>
 		</dict>
 		<key>Resources/macos/libv8_libbase.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E4/+iFix7wzfrbsAW69rqcLB+y0=
+			Lwk8KkqhV/dCLRP4HxGx2YDWu/8=
 			</data>
 			<key>hash2</key>
 			<data>
-			uKgm2rKC0SSjb2hRUxvBjLTLw5Xnokaandsnhrlp+c8=
+			YNV/NSblOdBWe9EakIID8aXVxG8L1DIZkwnXTmRHCWM=
+			</data>
+		</dict>
+		<key>Resources/macos/libv8_libplatform.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+RXEZg7JykA6Mz3Ol70wMBo0RVM=
+			</data>
+			<key>hash2</key>
+			<data>
+			vJTrNhbCLrSJs7MMZbG0c43BFD2TL2hoAUVEv0gjjQg=
 			</data>
 		</dict>
 		<key>Resources/macos/natives_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qHkUpBZKWBo3oBLbypW5xX9+2AM=
+			anS3wxniEUrmeAmixMarLXyyv6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			IDYZHCzx8JzksCU9vgp1AXWgDYKl0374BmuTDpEdQUI=
+			SxC/EgQAoipRQCAFSvILIlIjJwZqH+MzXkDOtUdUb7U=
 			</data>
 		</dict>
 		<key>Resources/macos/painter-colored.frag</key>
@@ -225,11 +525,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Uz5a2DS4QRamIIE3CcOXEQiw2M=
+			vanBCjBk5Nkb62REIOVpr+aEy8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			w2993mfcI7rOSFyIFr5kk6l6iK1lK8dUQrDOOLLlyN0=
+			HL80ca7YIa6Zrn2eiDiFTND5q4HDGmqxokjiNMN9EyA=
 			</data>
 		</dict>
 	</dict>
